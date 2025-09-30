@@ -1,2 +1,5 @@
-# yongrun-playground-2
-A repo for my experiments and practice on GitHub.
+# Yongrun Playground  
+This repo is for experiments and practice.  
+- Blockchain notes  
+- Learning GitHub  
+- Daily commits
